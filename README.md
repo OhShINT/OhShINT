@@ -27,4 +27,4 @@ Some of my other hobbies include internet culture, data hoarding, firearms techn
 
 Thank you for reading and I genuinely hope you enjoy the content! If not, well I can't really help you with that. `¯\_(ツ)_/¯`
 
-Remeber, sharing is caring!
+Remember, sharing is caring!
