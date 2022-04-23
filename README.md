@@ -1,4 +1,4 @@
-# **OH SHINT!**
+# **Just OSINT Things ¯\_(ツ)_/¯**
 
 <img src="https://github.com/OhShINT/OhShINT/blob/main/What-Are-You-Looking-At_ohshint.jpg"/>
 
@@ -32,6 +32,6 @@ Some of my other hobbies include internet culture, data hoarding, firearms techn
 
 
 
-Thank you for reading and I genuinely hope you enjoy the content! If not, well I can't really help you with that. `¯\_(ツ)_/¯`
+Thank you for reading and I genuinely hope you enjoy the content! If not, well I can't really help you with that.
 
 Remember, sharing is caring!
