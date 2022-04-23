@@ -1,4 +1,4 @@
-# **Just OSINT Things ¯\_(ツ)_/¯**
+# **`Just OSINT Things ¯\_(ツ)_/¯`**
 
 <img src="https://github.com/OhShINT/OhShINT/blob/main/What-Are-You-Looking-At_ohshint.jpg"/>
 
