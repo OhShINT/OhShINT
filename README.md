@@ -12,7 +12,7 @@ I enjoy anything related to open-source intelligence (OSINT), operational securi
 Some of my other hobbies include internet culture, data hoarding, firearms technology, forensic document examination, and general spy-craft related things. 
 
 
-## **My "Dox"**
+## **Contact**
 
 > **Email:** `ohshint [at] protonmail.com`
 
