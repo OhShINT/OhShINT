@@ -1,6 +1,6 @@
 # **OH SHINT!**
 
-<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Contact/donvito.png"/>
+<img src="https://github.com/OhShINT/OhShINT/blob/main/What-Are-You-Looking-At_ohshint.jpg"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=HELLO+FRIENDS%2C+WELCOME+TO+MY+GITHUB.;LET'S+GET+SOME+OSINT+GOING+ON+IN+HERE.++)](https://git.io/typing-svg)
 
@@ -28,7 +28,7 @@ Some of my other hobbies include internet culture, data hoarding, firearms techn
 
 ## **Other Stuff**
 
-<img src=https://github.com/OhShINT/OhShINT/blob/main/Trace-Labs-Judge-Badge-Global-OSINT-Search-Party-CTF-2022-04-04_ohshint.png/>
+<img src="https://github.com/OhShINT/OhShINT/blob/main/Trace-Labs-Judge-Badge-Global-OSINT-Search-Party-CTF-2022-04-04_ohshint.png"/>
 
 
 
