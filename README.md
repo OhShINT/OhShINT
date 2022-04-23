@@ -25,6 +25,13 @@ Some of my other hobbies include internet culture, data hoarding, firearms techn
 
 > **URL:** [ohshint.gitbook.io](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
 
+
+## **Other Stuff**
+
+<img src=https://github.com/OhShINT/OhShINT/blob/main/Trace-Labs-Judge-Badge-Global-OSINT-Search-Party-CTF-2022-04-04_ohshint.png/>
+
+
+
 Thank you for reading and I genuinely hope you enjoy the content! If not, well I can't really help you with that. `¯\_(ツ)_/¯`
 
 Remember, sharing is caring!
