@@ -2,7 +2,7 @@
 
 <img src="https://github.com/OhShINT/OhShINT/blob/main/What-Are-You-Looking-At_ohshint.jpg"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=HELLO+FRIENDS%2C+WELCOME+TO+MY+GITHUB.;LET'S+GET+SOME+OSINT+GOING+ON+IN+HERE.++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=HELLO+FRIENDS%2C+WELCOME+TO+MY+GITHUB.;LET'S+GET+SOME+OSINT+GOING+ON+IN+HERE..)](https://git.io/typing-svg)
 
 ## **About Me**
 
