@@ -23,6 +23,8 @@ Some of my other hobbies include internet culture, data hoarding, firearms techn
 
 > **GitHub:** [OhShINT](https://github.com/ohshint) 
 
+> **Internet Archive:** [ohshint](https://archive.org/details/@ohshint) 
+
 > **URL:** [ohshint.gitbook.io](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
 
 
